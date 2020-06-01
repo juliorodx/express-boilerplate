@@ -1,6 +1,6 @@
 {
-  "name": "src",
-  "version": "0.0.0",
+  "name": "express-boilerplate",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
